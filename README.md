@@ -1,4 +1,4 @@
-# VyomaSutra
+# VyomaSutra-pixel forge
 
 ## The Intelligent Multi-Sensor Lunar Image Registration
 
@@ -247,8 +247,3 @@ The dashboard includes a comparison against reported results from:
 
 The comparison is informative rather than a direct benchmark until the same real scenes are processed by both systems.
 
-## Team
-
-- **Shaket:** Data acquisition, preprocessing, classical matching, evaluation, and dashboard
-- **Gaurav:** Deep matching with LightGlue and future crater-detection extensions
-- **Shubh Sahu:** Project integration, local validation, technical analysis, and documentation
